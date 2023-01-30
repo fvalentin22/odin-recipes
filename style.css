@@ -10,6 +10,10 @@ img {
     margin: 0 auto;
 }
 
+.food-image {
+    border: solid 4px;
+}
+
 .list-of-recipes {
     color: red;
     font-size: 18px;
