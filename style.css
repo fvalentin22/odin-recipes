@@ -9,3 +9,11 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+.list-of-recipes {
+    color: red;
+}
+
+.list-of-recipes a {
+    color: black;
+}
