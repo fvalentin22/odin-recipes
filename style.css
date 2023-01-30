@@ -29,11 +29,18 @@ ol {
 }
 
 div {
-    border: dashed black;
+    height: fit-content;
+    width: fit-content;
+    margin-left: 300px;
+    border: 3px dashed lightblue;
+}
+
+.ingredient-list {
+    padding-left: 0px;
 }
 
 .ingredients {
-    padding-left: 315px;
+    padding-left: 15px;
 }
 
 .food-image {
