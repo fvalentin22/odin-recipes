@@ -28,6 +28,10 @@ ol {
     padding-right: 300px;
 }
 
+div {
+    border: dashed black;
+}
+
 .ingredients {
     padding-left: 315px;
 }
