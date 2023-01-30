@@ -12,6 +12,9 @@ img {
 
 .list-of-recipes {
     color: red;
+    font-size: 18px;
+    position: relative;
+    left: 300px;
 }
 
 .list-of-recipes a {
